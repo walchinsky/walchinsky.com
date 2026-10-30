@@ -2,15 +2,11 @@ site_name: Walchinsky
 site_url: https://walchinsky.com/
 site_description: Personal website of Matthew Walchinsky.
 site_author: Matthew Walchinsky
-repo_url: https://github.com/walchinsky/walchinsky.com
-repo_name: GitHub
-edit_uri: ""
 copyright: Copyright &copy; 2026 Matthew Walchinsky
 
 nav:
   - Home: index.md
   - About: about.md
-  - Projects: projects.md
   - Contact: contact.md
 
 # Files that belong in the build but not in the nav.
@@ -55,8 +51,6 @@ theme:
     - navigation.tabs.sticky
     - navigation.tracking
     - toc.follow
-    - search.suggest
-    - search.highlight
     - content.code.copy
 
 extra_css:
@@ -67,6 +61,9 @@ extra:
     - icon: fontawesome/brands/github
       link: https://github.com/walchinsky
       name: Matthew Walchinsky on GitHub
+    - icon: fontawesome/brands/gitlab
+      link: https://gitlab.com/walchinsky
+      name: Matthew Walchinsky on GitLab
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/walchinsky
       name: Matthew Walchinsky on LinkedIn
@@ -94,5 +91,4 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
-plugins:
-  - search
+plugins: []

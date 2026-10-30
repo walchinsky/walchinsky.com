@@ -8,7 +8,7 @@ hide:
 
 # Matthew Walchinsky
 
-Personal site for projects and a way to get in touch.
+Personal site for Matthew Walchinsky.
 
 <div class="grid cards" markdown>
 
@@ -20,19 +20,11 @@ Personal site for projects and a way to get in touch.
 
     [:octicons-arrow-right-24: About](about.md)
 
--   :material-cellphone: __Projects__
-
-    ---
-
-    Software I publish, starting with TapOut.
-
-    [:octicons-arrow-right-24: Projects](projects.md)
-
 -   :material-email: __Contact__
 
     ---
 
-    Email, GitHub, and LinkedIn.
+    Email, GitHub, GitLab, and LinkedIn.
 
     [:octicons-arrow-right-24: Contact](contact.md)
 

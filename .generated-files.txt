@@ -47,9 +47,7 @@ assets/stylesheets/palette.fb2fffe2.min.css
 assets/stylesheets/palette.fb2fffe2.min.css.map
 contact/index.html
 index.html
-projects/index.html
 robots.txt
-search/search_index.json
 sitemap.xml
 sitemap.xml.gz
 stylesheets/extra.css
